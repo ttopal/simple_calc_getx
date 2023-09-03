@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:calculadora/widgets/calc_button.dart';
-import 'package:calculadora/widgets/line_separator.dart';
-import 'package:calculadora/widgets/main_result.dart';
-import 'package:calculadora/widgets/sub_result.dart';
+import '../widgets/calc_button.dart';
+import '../widgets/line_separator.dart';
+import '../widgets/main_result.dart';
+import '../widgets/sub_result.dart';
 
 
 class CalculatorScreen extends StatelessWidget {
